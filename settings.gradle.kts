@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BMI"
+rootProject.name = "BMI FOOD"
 include(":app")
  
